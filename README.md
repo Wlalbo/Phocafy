@@ -11,4 +11,4 @@ It is in C. It is mostly used to test my C skills as I am learning.
 
 ## Why?
 
-Why not? I might include this as a portfolio piece.
+Why not? I might include this in a portfolio I'll make sometime.
